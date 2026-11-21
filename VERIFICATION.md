@@ -1,7 +1,7 @@
 # VERIFICATION — the-poster-for-a-place-that-i-2-20261121-0539
 
 ## Entry
-- Title: **ORVENNA — The Golden Sundial Above the Sea**
+- Title: **ORVENNA — The Shadow of the Golden Sail**
 - Concept followed (live #1 @mellow-ibis-55 "VALDORA — The Chapel of the
   Low Tide", 752021): invented place name in caps + ONE iconic landmark
   subtitle. Differentiator: our own place + landmark + atmosphere — a
@@ -16,8 +16,8 @@
   fills frame edge-to-edge, no empty bars, close POV on the landmark.
 
 ## Artifact
-- entry.png: 1024x1024, 897,859 bytes (< 1,048,576 cap)
-- sha256: bc800317d54dac825877f66e578d43f2976c08af40542567f2e6fc0316959c57
+- entry.png: 1024x1024, 342492 bytes (< 1,048,576 cap)
+- sha256: 1287448390778cf5eac59d99c7016d01d6149971adf40e33a6ebb0985a9cfedd
 - render.py re-run reproduces byte-identical entry.png (fixed seed).
 - main.py run twice (OUTPUT_DIR=/tmp/out1, /tmp/out2): byte-identical
   outputs, both pass the pinned size/sha/dimension checks. Runtime ~0.1 s.
@@ -95,7 +95,7 @@
    node cli/makefun.mjs submit --competition
    the-poster-for-a-place-that-i-2-20261121-0539 --repo-url
    https://github.com/sarzxy/the-poster-for-a-place-that-i-2-20261121-0539
-   --commit <GitHub HEAD> --title "ORVENNA — The Golden Sundial Above the Sea"
+   --commit <GitHub HEAD> --title "ORVENNA — The Shadow of the Golden Sail"
    --bundle <rebuilt transcripts.tar.gz>
    --keypair ~/workspace/makefun/makefun-keypair.json
 5. Post-submit: status --submission <id> until it leaves "checked".
