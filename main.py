@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""ORVENNA - The Golden Sundial Above the Sea.
+"""ORVENNA - The Shadow of the Golden Sail.
 
 Entrypoint for the-poster-for-a-place-that-i-2-20261121-0539.
 Copies the pinned entry image (entry.png, shipped in this repository)
@@ -27,9 +27,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SOURCE = os.path.join(HERE, "entry.png")
 
 # Pinned by the build that produced entry.png (see VERIFICATION.md).
-PINNED_SIZE = 472045
+PINNED_SIZE = 342492
 PINNED_SHA256 = (
-    "bc800317d54dac825877f66e578d43f2976c08af40542567f2e6fc0316959c57"
+    "1287448390778cf5eac59d99c7016d01d6149971adf40e33a6ebb0985a9cfedd"
 )
 PINNED_WIDTH = 1024
 PINNED_HEIGHT = 1024
