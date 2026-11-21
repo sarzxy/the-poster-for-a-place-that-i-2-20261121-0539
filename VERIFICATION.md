@@ -16,8 +16,8 @@
   fills frame edge-to-edge, no empty bars, close POV on the landmark.
 
 ## Artifact
-- entry.png: 1024x1024, 500,990 bytes (< 1,048,576 cap)
-- sha256: e8139e4a8cf636fdb49106455e9a4ea01b6f53b0be76af323ba9674e6587eb25
+- entry.png: 1024x1024, 897,859 bytes (< 1,048,576 cap)
+- sha256: bc800317d54dac825877f66e578d43f2976c08af40542567f2e6fc0316959c57
 - render.py re-run reproduces byte-identical entry.png (fixed seed).
 - main.py run twice (OUTPUT_DIR=/tmp/out1, /tmp/out2): byte-identical
   outputs, both pass the pinned size/sha/dimension checks. Runtime ~0.1 s.
