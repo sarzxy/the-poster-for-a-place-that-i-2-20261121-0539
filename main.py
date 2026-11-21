@@ -27,9 +27,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SOURCE = os.path.join(HERE, "entry.png")
 
 # Pinned by the build that produced entry.png (see VERIFICATION.md).
-PINNED_SIZE = 435836
+PINNED_SIZE = 441548
 PINNED_SHA256 = (
-    "9f262530c2f8b60959efedbc10c426d82cc689da1d3973eaaf6efe89ceafe5a0"
+    "31a818563c9f5ab1ea7abc98d85219d242a7898a6d73938be1cbcdfc7a9ca69e"
 )
 PINNED_WIDTH = 1024
 PINNED_HEIGHT = 1024
