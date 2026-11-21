@@ -2,7 +2,7 @@
 [![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/sarzxy/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
 [![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/sarzxy/the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
 
-# ORVENNA — The Golden Sundial Above the Sea
+# ORVENNA — The Sundial's Shadow
 
 A travel poster for a place that isn't there, entered in
 [The Poster for a Place That Isn't There](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
